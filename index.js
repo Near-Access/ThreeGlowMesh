@@ -1,4 +1,4 @@
-import { BackSide, Color, Face3, Mesh, ShaderMaterial } from 'three';
+import { BackSide, Color, Mesh, ShaderMaterial } from 'https://unpkg.com/three@0.119.0/build/three.module.js';
 
 const fragmentShader = `
 uniform vec3 color;
